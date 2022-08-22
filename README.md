@@ -1,19 +1,8 @@
-<p align="center">
-    <br>
-    <img src="docs/source/imgs/diffusers_library.jpg" width="400"/>
-    <br>
-<p>
-<p align="center">
-    <a href="https://github.com/huggingface/diffusers/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/datasets.svg?color=blue">
-    </a>
-    <a href="https://github.com/huggingface/diffusers/releases">
-        <img alt="GitHub release" src="https://img.shields.io/github/release/huggingface/diffusers.svg">
-    </a>
-    <a href="CODE_OF_CONDUCT.md">
-        <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg">
-    </a>
-</p>
+# BAD DIFFUSERS
+
+to use, run stable diffusion in colab but instead of `pip install`ing `diffusers`, run `pip install git+https://github.com/unjaspr/bad-diffusers`
+
+## Regular readme
 
 🤗 Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves
 as a modular toolbox for inference and training of diffusion models.
